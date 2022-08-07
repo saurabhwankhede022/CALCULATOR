@@ -2,10 +2,6 @@
 
     React Calculator App
 
-# Video tutorial
-
-    https://youtu.be/ZtHyhj2tQUE
-
 # Resource
 
     Google font: https://fonts.google.com/
